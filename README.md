@@ -29,13 +29,16 @@ domains.
 
 ➢ Objectives
 * Develop a Python-based Text-to-Speech Converter
-• Goal: Build a functional application that can convert written text into natural-sounding
+  
+   • Goal: Build a functional application that can convert written text into natural-sounding
 speech using Python programming language.
 * Design and Implement a Simple Graphical User Interface (GUI)
-• Goal: Create an intuitive, user-friendly interface using Tkinter that allows users to
+
+   • Goal: Create an intuitive, user-friendly interface using Tkinter that allows users to
 input text and listen to the generated speech with minimal effort.
 * Demonstrate the Practical Use of TTS Technology
-• Goal: Create a working tool that can be used in real-world applications, such as
+  
+   • Goal: Create a working tool that can be used in real-world applications, such as
 accessibility tools for visually impaired users, automated voice-based systems, or
 language learning applications.
 
